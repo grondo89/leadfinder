@@ -1,3 +1,5 @@
+//EJERCICIO REALIZADO POR GABRIEL GRONDONA - 20/9/2019
+
 const fs = require("fs");
 const file = fs.createWriteStream("people.out");
 const lineReader = require("readline").createInterface({
